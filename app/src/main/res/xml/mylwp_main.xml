@@ -1,0 +1,5 @@
+<wallpaper
+    xmlns_android="http://schemas.android.com/apk/res/android"
+    android_thumbnail="@mipmap/ic_launcher"
+    android_description="no desc"
+    android_settingsActivity="com.example.suiwallpaper.MyLWPSettings"/>
